@@ -60,3 +60,6 @@ plt.rcParams['font.sans-serif']=['Microsoft YaHei']
 
 plt.grid()
 plt.show()
+
+#代码运行结果图片
+#https://github.com/li-suyao/pitcure/blob/main/XPC~%60%7DW6%60WDEQ%5B%407M%5BJ)QSE.png
